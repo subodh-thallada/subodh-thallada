@@ -1,6 +1,9 @@
 # Hello! I'm Subodh
+
 🏫 I'm currently pursuing an undergraduate degree in Mechatronics Engineering at McMaster University
+
 🌐 I'm passionate about building impactful tech at the intersection of hardware and software
+
 🤝 I'm always open to collaborating on exciting projects and learning from innovative minds
 You can reach me at subodhthallada@gmail.com, or through my socials!
 
