@@ -2,7 +2,7 @@
 
 🏫 I'm currently pursuing an undergraduate degree in Mechatronics Engineering at McMaster University
 
-🌐 I'm passionate about building impactful tech at the intersection of hardware and software
+🌐 I'm passionate about building impactful tech at the intersection of software and hardware
 
 🤝 I'm always open to collaborating on exciting projects and learning from innovative minds
 
