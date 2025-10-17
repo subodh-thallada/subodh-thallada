@@ -4,7 +4,7 @@
 
 🌐 I'm passionate about building impactful tech at the intersection of software and hardware
 
-🤝 I'm always open to collaborating on exciting projects and learning from innovative minds
+🤝 I'm always open to collaborating on exciting projects and learning from cool people
 
 You can reach me at subodhthallada@gmail.com, or through my socials!
 
