@@ -13,7 +13,7 @@ You can reach me at subodhthallada@gmail.com, or through my socials!
 
 ## 💻 Tech Stack:
 
-### 🚀 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -26,7 +26,7 @@ You can reach me at subodhthallada@gmail.com, or through my socials!
 
 ---
 
-### 🧩 Libraries & Frameworks
+### Libraries & Frameworks
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
@@ -40,7 +40,7 @@ You can reach me at subodhthallada@gmail.com, or through my socials!
 
 ---
 
-### 🛠️ Developer Tools
+### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
