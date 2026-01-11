@@ -1,10 +1,8 @@
 # Hello! I'm Subodh
 
-🏫 I'm currently pursuing an undergraduate degree in Mechatronics Engineering at McMaster University
-
-🌐 I'm passionate about building impactful tech at the intersection of software and hardware
-
-🤝 I'm always open to collaborating on exciting projects and learning from cool people
+ - I'm currently pursuing an undergraduate degree in Mechatronics Engineering at McMaster University
+ - Currently a Software Engineering Intern at Royal Bank of Canada, with previous experience at 2 early-stage startups
+ - Always open to collaborating on exciting projects and learning from cool people
 
 You can reach me at subodhthallada@gmail.com, or through my socials!
 
